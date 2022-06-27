@@ -1,4 +1,6 @@
 # 2019009261 Gaon Choi
+# Practice 1-2
+
 import argparse
 import random
 import numpy as np
