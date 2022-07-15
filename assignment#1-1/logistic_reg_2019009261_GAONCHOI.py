@@ -1,5 +1,5 @@
 # 2019009261 Gaon Choi
-# Practice 1-2
+# Practice 1-1
 
 import argparse
 import random
